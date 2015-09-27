@@ -167,12 +167,6 @@ gameoverImage.src = "AsteroidsArt/gameover.png";
 var backgroundTile = document.createElement("img");
 backgroundTile.src = "AsteroidsArt/bg_tile.png";
 
-var tenPointsImage = document.createElement("img");
-tenPointsImage.src = "AsteroidsArt/tenpoints.png";
-
-var hundredPointsImage = document.createElement("img");
-hundredPointsImage.src = "AsteroidsArt/100points.png";
-
 //Key Constants
 var SPACE 		= 32;
 var UP_ARROW 	= 38;
